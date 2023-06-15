@@ -22,7 +22,7 @@ parameters = {
     max_tokens: 200,
 }
 
-response = client.chat(parameters)
+response = client.chat(parameters: parameters)
 
 output = response.dig("choices", 0, "message", "content")
 

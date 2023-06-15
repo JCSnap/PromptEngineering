@@ -5,7 +5,7 @@ Your task is to create a question that requires the students to unscramble a set
 2. Scale the question difficulty accordingly to the educational level of the student.
 3. Make sure the answer is short and succinct.
 4. Note that the scrambled set may allow for 1 to 2 valid answers.
-5. Create 1 to 2 "wrong" answers that are similar to the correct answer to throw off your students.
+5. Create 1 to 2 "wrong" answers that are similar to the correct answer to throw off your students. It can include words that are not in the correct set.
 INSTRUCTION
 
 UNSCRAMBLE_FORMAT = <<~FORMAT
