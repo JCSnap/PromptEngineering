@@ -1,7 +1,7 @@
 require 'openai'
 require_relative 'constants_temp'
 
-client = OpenAI::Client.new(access_token: "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")
+client = OpenAI::Client.new(access_token: "")
 
 
 subtopic = "Photosynthesis"
